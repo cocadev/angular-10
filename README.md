@@ -11,7 +11,7 @@
 </p>
 
 ## Lighthouse Audit
-<img src="https://api.kingofdevs.com/articles/img/search-engine-optimization-avec-angular-lighthouse-after.png"/>
+<img src="screenshot.png"/>
 
 ## Table of contents
 
