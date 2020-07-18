@@ -7,33 +7,19 @@
     <br>
     Prototype bootstrap
     <br>
-    <a href="https://angular.ganatan.com/">LIVE DEMO</a>
-    <br>
-    <br>
-    <a href="https://angular.ganatan.com/">
-      <img src="https://media.giphy.com/media/RfqiR12yhtHpwaItBq/giphy.gif" alt="Angular 10 Example Application"/>
-    </a>
   </p>
 </p>
 
 ## Lighthouse Audit
-<img src="https://api.ganatan.com/articles/img/search-engine-optimization-avec-angular-lighthouse-after.png"/>
+<img src="https://api.kingofdevs.com/articles/img/search-engine-optimization-avec-angular-lighthouse-after.png"/>
 
 ## Table of contents
 
 - [Status](#status)
 - [Quick start](#quick-start)
 - [Front-end](#front-end)
-- [Back-end](#back-end)
 - [Author](#author)
 - [Documentation](#documentation)
-
-## Status
-
-[![GitHub stars](https://img.shields.io/github/stars/ganatan/angular10-app.svg?style=social&label=Star)](https://github.com/ganatan/angular10-app)
-[![GitHub forks](https://img.shields.io/github/forks/ganatan/angular10-app.svg?style=social&label=Fork)](https://github.com/ganatan/angular10-app/fork)
-
-
 
 ### Front-end : What's included
 > Dependencies
@@ -77,10 +63,10 @@
 
 ```bash
 # clone the repo
-git clone https://github.com/ganatan/angular10-app.git
+git clone https://github.com/kingofdevs/angular-10.git
 
 # change directory
-cd angular10-app
+cd angular-10
 
 # install the repo with npm
 npm install
@@ -129,36 +115,6 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 * `change directory` cd ui
 * launch html pages in your browser
 
-## Back-end
-
-### Installation
-* `change directory` cd api 
-* `npm install` (installing dependencies)
-* `npm outdated` (verifying dependencies)
-
-### Database Creation
-* `change login and password for postgreSQL in file config.json`
-* `login":"postgres"`
-* `password":"your_password"`
-
-* `npm run app` (database creation)
-
-### Developpement
-* `npm run start`
-* in your browser [http://localhost:5200](http://localhost:5200) 
-
-### Tests API
-* in your browser [http://localhost:5200/movies](http://localhost:5200/movies) 
-
 ### Author
-* Updated : 17/07/2020
-* Author  : danny
-
-## Documentation
-English Tutorials
-- Installation - https://www.ganatan.com/tutorials/build-full-web-application-with-angular
-- Tutorials Step by Step - https://www.ganatan.com/tutorials/en
-
-Tutoriels en français
-- Installation - https://www.ganatan.com/tutorials/creer-application-web-complete-avec-angular
-- Tutoriels Etapes par étapes - https://www.ganatan.com/tutorials
+* Updated : 18/07/2020
+* Author  : kingofdevs

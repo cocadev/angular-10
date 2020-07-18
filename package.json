@@ -15,18 +15,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ganatan/angular10-app.git"
+    "url": "https://github.com/kingofdevs/angular-10.git"
   },
   "author": {
-    "name": "danny",
-    "email": "dannyganatan@gmail.com",
-    "url": "https://www.ganatan.com/"
+    "name": "danny"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ganatan/angular10-app/issues"
+    "url": "https://github.com/kingofdevs/angular-10/issues"
   },
-  "homepage": "https://github.com/ganatan/angular10-app#readme",
+  "homepage": "https://github.com/kingofdevs/angular-10#readme",
   "private": true,
   "dependencies": {
     "@angular/animations": "10.0.4",
