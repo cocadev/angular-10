@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Angular 10 Application</h1>
+  <h1 align="center">Angular 10 Website </h1>
   <p align="center">
     Angular 10.0.4 + Angular CLI + Angular Universal
     <br>
